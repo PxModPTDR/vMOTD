@@ -19,4 +19,4 @@ motd: "By VanillaShop"
 
 VanillaShop : 
 
-[![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/HGJG7EsYKx)
+[![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/HGJG7EsYKx )
